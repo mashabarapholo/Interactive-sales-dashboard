@@ -21,7 +21,8 @@ This project demonstrates the ability to transform a raw CSV dataset into a user
 
 *(We will add a screenshot of the dashboard here)*
 
-![Dashboard Screenshot](path/to/screenshot.png) 
+![Dashboard Screenshot](<img width="1418" height="652" alt="image" src="https://github.com/user-attachments/assets/ed8e5c25-e01e-4e0e-a8f1-8854dce77dc8" />
+) 
 
 ## Tech Stack
 
